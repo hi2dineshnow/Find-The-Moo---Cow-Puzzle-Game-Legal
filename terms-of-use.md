@@ -1,14 +1,14 @@
-# Terms of Use for Logic Riddle – Cow Puzzle Game
+# Terms of Use for Find The Moo – Cow Puzzle Game
 
 **Last Updated: September 22, 2026**
 
-These Terms of Use ("Terms") govern your use of **Logic Riddle – Cow Puzzle Game** (the "Game"), developed and published by **TryHard Studios** ("we", "us", "our", or "Developer").
+These Terms of Use ("Terms") govern your use of **Find The Moo – Cow Puzzle Game** (the "Game"), developed and published by **TryHard Studios** ("we", "us", "our", or "Developer").
 
 By downloading, installing, accessing, or using the Game, you agree to these Terms. If you do not agree with these Terms, please do not use the Game.
 
 ## 1. Use of the Game
 
-Logic Riddle – Cow Puzzle Game is a casual puzzle game designed for entertainment and personal use.
+Find The Moo – Cow Puzzle Game is a casual puzzle game designed for entertainment and personal use.
 
 You may use the Game on a compatible device for your personal, non-commercial purposes, subject to these Terms and any applicable laws.
 
@@ -176,7 +176,7 @@ Your use of the Game is also governed by our Privacy Policy.
 
 Our Privacy Policy explains how information associated with the Game, including information handled by third-party advertising services, may be processed.
 
-Please review the Privacy Policy available on our official GitHub Pages website.
+Please review the Privacy Policy available on our official legal repository.
 
 ## 16. Changes to These Terms
 
@@ -202,8 +202,8 @@ If you have questions, concerns, or requests regarding these Terms or the Game, 
 
 ---
 
-**Logic Riddle – Cow Puzzle Game**
-**Developer: TryHard Studios**
-**Package ID: com.tryhardstudios.cowpuzzlegame**
+**Find The Moo – Cow Puzzle Game**  
+**Developer: TryHard Studios**  
+**Package ID: com.tryhardstudios.cowpuzzlegame**  
 
 © 2026 TryHard Studios. All rights reserved.
