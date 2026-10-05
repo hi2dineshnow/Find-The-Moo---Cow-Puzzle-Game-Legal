@@ -45,4 +45,4 @@ We will review your message and respond as soon as reasonably possible.
 
 **Logic Riddle – Cow Puzzle Game**
 
-© 2026 Logic Riddle
+© 2026 TryHard Studios. All rights reserved.
