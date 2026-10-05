@@ -1,10 +1,10 @@
 # Contact Us
 
-## Logic Riddle – Cow Puzzle Game
+## Find The Moo – Cow Puzzle Game
 
 We would love to hear from you!
 
-If you have questions, feedback, suggestions, or experience a problem while playing **Logic Riddle – Cow Puzzle Game**, please contact our support team.
+If you have questions, feedback, suggestions, or experience a problem while playing **Find The Moo – Cow Puzzle Game**, please contact our support team.
 
 ### Game Support
 
@@ -43,6 +43,7 @@ We will review your message and respond as soon as reasonably possible.
 
 ---
 
-**Logic Riddle – Cow Puzzle Game**
+**Find The Moo – Cow Puzzle Game**  
+**Developer: TryHard Studios**  
 
 © 2026 TryHard Studios. All rights reserved.
