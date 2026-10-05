@@ -1,8 +1,8 @@
-# Privacy Policy for Logic Riddle – Cow Puzzle Game
+# Privacy Policy for Find The Moo – Cow Puzzle Game
 
 **Last Updated: September 22, 2026**
 
-This Privacy Policy explains how **TryHard Studios** ("we", "us", or "our") handles information in connection with the mobile game **Logic Riddle – Cow Puzzle Game** (the "Game").
+This Privacy Policy explains how **TryHard Studios** ("we", "us", or "our") handles information in connection with the mobile game **Find The Moo – Cow Puzzle Game** (the "Game").
 
 By downloading, installing, or using the Game, you agree to the practices described in this Privacy Policy.
 
@@ -160,15 +160,15 @@ If you have questions, concerns, or requests regarding this Privacy Policy or th
 
 ## 14. Consent
 
-By using **Logic Riddle – Cow Puzzle Game**, you acknowledge that you have read and understood this Privacy Policy.
+By using **Find The Moo – Cow Puzzle Game**, you acknowledge that you have read and understood this Privacy Policy.
 
 If you do not agree with this Privacy Policy, please discontinue use of the Game.
 
 ---
 
-**Logic Riddle – Cow Puzzle Game**
-**Developer: TryHard Studios**
-**Package ID: com.tryhardstudios.cowpuzzlegame**
-**Version: 1.0.0**
+**Find The Moo – Cow Puzzle Game**  
+**Developer: TryHard Studios**  
+**Package ID: com.tryhardstudios.cowpuzzlegame**  
+**Version: 1.0.0**  
 
 © 2026 TryHard Studios. All rights reserved.
